@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgoPlayground", "AlgoPlayground.csproj", "{F0FEA4CB-184A-B113-ACA5-A226938B0892}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0FEA4CB-184A-B113-ACA5-A226938B0892}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0FEA4CB-184A-B113-ACA5-A226938B0892}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0FEA4CB-184A-B113-ACA5-A226938B0892}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0FEA4CB-184A-B113-ACA5-A226938B0892}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D797A131-182D-47A5-8903-9723A3745376}
+	EndGlobalSection
+EndGlobal

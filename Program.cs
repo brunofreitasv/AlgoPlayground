@@ -1,0 +1,3 @@
+﻿using AlgoPlayground;
+
+TestRunner.RunAll();
